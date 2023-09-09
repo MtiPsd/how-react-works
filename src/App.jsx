@@ -98,3 +98,6 @@ function DifferentContent() {
     </div>
   );
 }
+
+// made custom theme for vs code
+// I learned a lot
