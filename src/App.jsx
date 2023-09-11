@@ -67,7 +67,7 @@ function TabContent({ item }) {
 
   console.log('RENDER');
 
-  function handleInc() {
+  function handleInc(e) {
     setLikes(likes => likes + 1);
     // this might work as well but we never
     // know what we will do with this function
